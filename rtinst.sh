@@ -148,7 +148,6 @@ else
  echo $fullrel
  echo "Only Ubuntu release 12 and later, and Debian and Raspbian release 7 and later, are supported"
  echo "Your system does not appear to be supported"
- exit
 fi
 
 # get options
